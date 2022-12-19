@@ -1,0 +1,10 @@
+[Trace 15:10:16.580] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/mthan/frontend/README.md
+[Trace 15:10:16.581] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/mthan/frontend/README.md
+[Trace 15:10:16.583] Server: connection.languages.diagnostics.on: file:///home/mthan/frontend/README.md
+[Trace 15:10:16.589] Server: connection.languages.diagnostics.on: file:///home/mthan/frontend/README.md
+[Trace 15:10:16.595] DocumentSymbolProvider: provideDocumentSymbols — file:///home/mthan/frontend/README.md 1
+[Debug 15:10:16.595] LinkProvider: compute - file:///home/mthan/frontend/README.md
+[Debug 15:10:16.690] TableOfContentsProvider: create - file:///home/mthan/frontend/README.md
+[Debug 15:10:16.790] MdFoldingProvider: provideFoldingRanges — file:///home/mthan/frontend/README.md 1
+[Trace 15:10:39.912] VsCodeClientWorkspace: TextDocument.onDidClose: file:///home/mthan/frontend/README.md
+[Trace 15:10:39.912] VsCodeClientWorkspace: deleteDocument: file:///home/mthan/frontend/README.md

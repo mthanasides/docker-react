@@ -1,0 +1,14 @@
+2022-12-14 13:58:45.511 [info] Extension host with pid 12652 started
+2022-12-14 13:58:45.564 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-14 13:58:45.577 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2022-12-14 13:58:45.642 [info] Lock '/home/mthan/.vscode-server/data/User/workspaceStorage/80cdf3609c16d6df22ecc5e2c6927562/vscode.lock': Lock acquired.
+2022-12-14 13:58:45.857 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-14 13:58:45.858 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-14 13:58:46.058 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 13:58:46.058 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 13:58:46.059 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-14 13:58:46.059 [info] Eager extensions activated
+2022-12-14 15:05:04.265 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2022-12-15 09:12:20.301 [info] Extension host terminating: received terminate message from renderer
+2022-12-15 09:12:20.302 [info] Lock '/home/mthan/.vscode-server/data/User/workspaceStorage/80cdf3609c16d6df22ecc5e2c6927562/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-15 09:12:20.319 [info] Extension host with pid 12652 exiting with code 0

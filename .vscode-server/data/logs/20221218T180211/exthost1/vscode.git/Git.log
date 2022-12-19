@@ -1,0 +1,103 @@
+2022-12-18 18:02:13.598 [info] Log level: Info
+2022-12-18 18:02:13.598 [info] Validating found git in: "git"
+2022-12-18 18:02:13.598 [info] Using git "2.25.1" from "git"
+2022-12-18 18:02:13.598 [info] > git rev-parse --show-toplevel [6ms]
+2022-12-18 18:02:13.598 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:02:13.598 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-18 18:02:13.598 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:02:13.598 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-18 18:02:13.598 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:02:13.598 [info] > git rev-parse --show-toplevel [0ms]
+2022-12-18 18:02:13.598 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:02:13.599 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-18 18:02:13.599 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:02:14.511 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-18 18:02:14.511 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:02:18.327 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-18 18:02:18.327 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:02:23.698 [info] > git rev-parse --show-toplevel [97ms]
+2022-12-18 18:02:23.698 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:02:34.179 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-18 18:02:34.179 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:02:54.165 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-18 18:02:54.165 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:03:05.249 [info] > git rev-parse --show-toplevel [118ms]
+2022-12-18 18:03:05.249 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:03:11.206 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-18 18:03:11.206 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:03:20.223 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-18 18:03:20.223 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:12:58.044 [info] > git rev-parse --show-toplevel [4ms]
+2022-12-18 18:12:58.044 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:13:43.823 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-18 18:13:43.823 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:13:49.251 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-18 18:13:49.251 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:15:03.347 [info] > git rev-parse --show-toplevel [131ms]
+2022-12-18 18:15:03.347 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:15:25.529 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-18 18:15:25.529 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:18:37.395 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-18 18:18:37.395 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:20:10.733 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-18 18:20:10.733 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:20:12.030 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-18 18:20:12.031 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:20:17.851 [info] > git rev-parse --show-toplevel [8ms]
+2022-12-18 18:20:17.852 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:20:34.066 [info] > git rev-parse --show-toplevel [3ms]
+2022-12-18 18:20:34.066 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:20:36.384 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-18 18:20:36.384 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:22:26.548 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-18 18:22:26.548 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:22:31.955 [info] > git rev-parse --show-toplevel [2ms]
+2022-12-18 18:22:31.955 [info] fatal: not a git repository (or any of the parent directories): .git
+2022-12-18 18:36:48.396 [info] > git rev-parse --show-toplevel [1ms]
+2022-12-18 18:36:48.403 [info] > git rev-parse --git-dir --git-common-dir [0ms]
+2022-12-18 18:36:48.412 [info] Open repository: /home/mthan/frontend
+2022-12-18 18:36:48.427 [warning] No remotes found in the git config file.
+2022-12-18 18:36:48.428 [info] > git remote --verbose [1ms]
+2022-12-18 18:36:48.428 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2022-12-18 18:36:48.429 [info] > git config --get commit.template [11ms]
+2022-12-18 18:36:48.438 [info] > git status -z -uall [4ms]
+2022-12-18 18:36:48.438 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2022-12-18 18:36:48.450 [info] > git config --get commit.template [1ms]
+2022-12-18 18:36:48.453 [warning] No remotes found in the git config file.
+2022-12-18 18:36:48.458 [info] > git remote --verbose [5ms]
+2022-12-18 18:36:48.459 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-18 18:36:48.470 [info] > git status -z -uall [7ms]
+2022-12-18 18:36:48.470 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2022-12-18 18:36:48.797 [info] > git show --textconv :docker-compose.yml [20ms]
+2022-12-18 18:36:48.797 [info] > git show --textconv :Dockerfile.dev [15ms]
+2022-12-18 18:36:48.797 [info] > git show --textconv :Dockerfile [12ms]
+2022-12-18 18:36:48.798 [info] > git ls-files --stage -- /home/mthan/frontend/Dockerfile [0ms]
+2022-12-18 18:36:48.799 [info] > git ls-files --stage -- /home/mthan/frontend/Dockerfile.dev [7ms]
+2022-12-18 18:36:48.800 [info] > git ls-files --stage -- /home/mthan/frontend/docker-compose.yml [13ms]
+2022-12-18 18:36:48.982 [info] > git check-ignore -v -z --stdin [0ms]
+2022-12-18 18:46:42.554 [info] > git ls-files --stage -- /home/mthan/frontend/Dockerfile.dev [4ms]
+2022-12-18 18:46:42.557 [info] > git ls-files --stage -- /home/mthan/frontend/docker-compose.yml [11ms]
+2022-12-18 18:46:42.561 [info] > git config --get commit.template [20ms]
+2022-12-18 18:46:42.564 [info] > git cat-file -s 69f03e4a9dc3c475e4ade5c0480e82900b523c05 [4ms]
+2022-12-18 18:46:42.565 [info] > git cat-file -s ebe3bd710f581838bd43c055eab8b7ca4ed0b5e6 [8ms]
+2022-12-18 18:46:42.565 [info] > git ls-files --stage -- /home/mthan/frontend/Dockerfile [12ms]
+2022-12-18 18:46:42.569 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2022-12-18 18:46:42.578 [info] > git status -z -uall [6ms]
+2022-12-18 18:46:42.579 [info] > git cat-file -s c92fc174b1cdb619be9a600020b23df218f8e948 [10ms]
+2022-12-18 18:46:42.579 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2022-12-18 18:46:42.595 [info] > git show --textconv :docker-compose.yml [7ms]
+2022-12-18 18:46:42.595 [info] > git show --textconv :Dockerfile.dev [4ms]
+2022-12-18 18:46:42.595 [info] > git show --textconv :Dockerfile [0ms]
+2022-12-19 08:17:19.844 [info] > git config --get commit.template [26ms]
+2022-12-19 08:17:19.845 [info] > git ls-files --stage -- /home/mthan/frontend/Dockerfile [3ms]
+2022-12-19 08:17:19.849 [info] > git ls-files --stage -- /home/mthan/frontend/Dockerfile.dev [11ms]
+2022-12-19 08:17:19.853 [info] > git ls-files --stage -- /home/mthan/frontend/docker-compose.yml [22ms]
+2022-12-19 08:17:19.870 [info] > git cat-file -s ebe3bd710f581838bd43c055eab8b7ca4ed0b5e6 [18ms]
+2022-12-19 08:17:19.870 [info] > git cat-file -s c92fc174b1cdb619be9a600020b23df218f8e948 [21ms]
+2022-12-19 08:17:19.871 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2022-12-19 08:17:19.878 [info] > git cat-file -s 69f03e4a9dc3c475e4ade5c0480e82900b523c05 [16ms]
+2022-12-19 08:17:19.879 [info] > git status -z -uall [5ms]
+2022-12-19 08:17:19.879 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2022-12-19 08:17:19.894 [info] > git show --textconv :Dockerfile.dev [10ms]
+2022-12-19 08:17:19.895 [info] > git show --textconv :Dockerfile [7ms]
+2022-12-19 08:17:19.895 [info] > git show --textconv :docker-compose.yml [1ms]

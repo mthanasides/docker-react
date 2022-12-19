@@ -1,0 +1,13 @@
+FROM node:16-alpine
+
+USER mthan
+
+RUN mkdir -p /home/mthan/app
+
+WORKDIR /home/mthan/app
+COPY --chown=mthan:mthan ./package.json ./
+RUN npm install
+
+COPY --chown=mthan:mthan ./ ./
+
+CMD ["npm", "run", "start"]
